@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Hold \'em Calc</string>
+    <string name="naslov">Texas Hold \'em Calculator</string>
+    <string name="new_calc">Start</string>
+    <string name="exit_label">Exit</string>
+     <string name="info_label">Info</string>
+     
+     <string name="info_naslov">About...</string>
+     <string name="info_text">This app calculates the chances of winning a \"Texas Hold\'em\" round given two known player hands</string>
+     <string name="btn_ponisti">Clear</string>
+</resources>
